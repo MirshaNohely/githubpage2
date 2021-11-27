@@ -1,0 +1,64 @@
+/*colores*/
+.fondo{
+    background-color: #2cd6b4;
+}
+
+.fondoazul{
+    background-color:aqua;
+}
+
+.fondomorado{
+    background-color:rgb(154, 65, 238);
+}
+
+/*texto*/
+.letrablanca{
+    color:white;
+}
+
+.centrartexto{
+    text-align: center; 
+}
+
+/*tamaño*/
+
+.sizesquare{
+    width: 100%;
+}
+.sizeletter{
+    font-size: 35px;
+    font-style:normal;
+}
+.c1{
+    width: 20px;
+}
+
+.c2{
+    width: 80px;
+}
+
+.cuadroadentro{
+    display: grid;
+    
+}
+
+/*bordes*/
+
+.punteadorijo{
+    border-style: dashed; border-width: 3px; 
+    border-color: red;
+}
+
+.punteadoblanco{
+    border-style: dashed; border-width: 3px; 
+    border-color: white;
+}
+
+.bordeblanco{
+    border:white 3px solid;
+}
+
+.centrartabla{
+    margin: 0 auto;
+}
+
